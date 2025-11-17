@@ -42,6 +42,7 @@ Frontend will run at:
 http://localhost:5173
 
 - Notes on Design Choices
+
 --Frontend
 
 Implemented a clean UI using a single upload box and a gallery grid.
