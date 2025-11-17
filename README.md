@@ -3,17 +3,17 @@ Mini Image Gallery – Assignment Documentation
 
 Go to backend folder:
 
-cd backend
+ cd mini-image-gallery-backend
 
 
 Install dependencies:
 
-npm install
+ npm install
 
 
 Start the backend:
 
-npm run dev
+ npm run dev
 
 
 Backend will run at:
@@ -24,17 +24,17 @@ http://localhost:4000
 
 Go to frontend folder:
 
-cd frontend
+ cd mini-image-gallery
 
 
 Install dependencies:
 
-npm install
+  npm install
 
 
 Start the frontend:
 
-npm run dev
+  npm run dev
 
 
 Frontend will run at:
@@ -42,7 +42,7 @@ Frontend will run at:
 http://localhost:5173
 
 - Notes on Design Choices
-Frontend
+--Frontend
 
 Implemented a clean UI using a single upload box and a gallery grid.
 
@@ -52,7 +52,7 @@ Used a responsive grid layout for displaying uploaded images.
 
 Gallery auto-refreshes after each upload or delete.
 
-Backend
+-- Backend
 
 Used Express server with in-memory storage (as required).
 
